@@ -20,7 +20,7 @@ A simple, responsive website showcasing Nokia products, including sections for t
 
 ---
 
-## Pages
+## Pages (https://users.metropolia.fi/~tanvirn/html2/html/home.html)
 
 ### Homepage (home.html)
 
